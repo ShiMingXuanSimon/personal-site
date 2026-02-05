@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "vitepress dev docs",
-    "build": "npx vitepress build docs",
+    "build": "vitepress build docs --out-dir .vitepress/dist",
     "preview": "vitepress preview docs"
   },
   "devDependencies": {
