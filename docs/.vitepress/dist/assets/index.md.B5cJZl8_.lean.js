@@ -1,0 +1,1 @@
+import{_ as a,o as i,c as n,ae as t}from"./chunks/framework.BD9pLfSD.js";const c=JSON.parse('{"title":"ShiMingXuanSimon","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),o={name:"index.md"};function r(l,e,s,d,h,m){return i(),n("div",null,[...e[0]||(e[0]=[t("",6)])])}const u=a(o,[["render",r]]);export{c as __pageData,u as default};
