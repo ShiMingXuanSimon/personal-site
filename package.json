@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "vitepress dev docs",
-    "build": "vitepress build docs --out-dir .vitepress/dist",
+    "build": "node node_modules/vitepress/bin/vitepress.js build docs",
     "preview": "vitepress preview docs"
   },
   "devDependencies": {
