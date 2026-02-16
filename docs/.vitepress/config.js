@@ -8,7 +8,7 @@ export default {
   themeConfig: {
     nav: [
       { text: '主页', link: '/' },
-      { text: '实验', link: '/playground.html' },
+      { text: '实验', link: './playground.html',target: '_self' },
     ],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/ShiMingXuanSimon/Site-ClassScoreManageSystem' }
