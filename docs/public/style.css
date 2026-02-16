@@ -1,0 +1,22 @@
+.large-box{
+    display:inline-block;
+    border:5px solid black;
+    padding:10px;
+    background-color: #006FC3;
+}
+.Me-title{
+    font-size:30px;
+    font-weight:bold;
+}
+.Me-info{
+    display:inline-block;
+}
+.Me-link{
+    display:inline-block;
+}
+.Me-icon{
+    margin:5px
+}
+.Me-context{
+    margin:5px;
+}
