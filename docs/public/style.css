@@ -2,11 +2,15 @@
     display:inline-block;
     border:5px solid black;
     padding:10px;
-    background-color: #006FC3;
+    margin:10px;
+    background-color: #298edb;
 }
+
+
 .Me-title{
-    font-size:30px;
+    font-size:35px;
     font-weight:bold;
+    color:#EC1269
 }
 .Me-info{
     display:inline-block;
@@ -19,4 +23,30 @@
 }
 .Me-context{
     margin:5px;
+}
+
+
+.CSMS-title{
+    display:inline;
+    font-size:25px;
+    margin:5px;
+    font-weight:bold;
+}
+.CSMS-button {
+  gap: 8px;                /* 图标和文字的间距 */
+  padding: 5px 5px;      /* 让矩形变大（内边距） */
+  margin:5px;
+  background-color: #ede31d; /* 背景色，让你看到矩形 */
+  border-radius: 8px;      /* 圆角（可选） */
+  text-decoration: none;   /* 去掉链接的下划线 */
+  color: #000000;             /* 文字颜色 */
+  width: fit-content;      /* 让矩形根据内容自动调整宽度 */
+}
+.CSMS-button:hover {
+  background-color: #d4cb1d;
+}
+.CSMS-version{
+    font-size:30px;
+    margin:5px;
+    font-weight:bold;
 }
