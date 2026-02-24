@@ -5,6 +5,17 @@
     margin:10px;
     background-color: #298edb;
 }
+.button-unavailable{
+    gap: 8px;                /* 图标和文字的间距 */
+    padding: 5px 5px;      /* 让矩形变大（内边距） */
+    margin:5px;
+    background-color: #5f5f5f; /* 背景色，让你看到矩形 */
+    border-radius: 8px;      /* 圆角（可选） */
+    text-decoration: none;   /* 去掉链接的下划线 */
+    color: #000000;             /* 文字颜色 */
+    width: fit-content;      /* 让矩形根据内容自动调整宽度 */
+    opacity:0.5;
+}
 
 
 .Me-title{
@@ -46,6 +57,32 @@
   background-color: #d4cb1d;
 }
 .CSMS-version{
+    font-size:30px;
+    margin:5px;
+    font-weight:bold;
+}
+
+
+.CPMS-title{
+    display:inline;
+    font-size:25px;
+    margin:5px;
+    font-weight:bold;
+}
+.CPMS-button {
+  gap: 8px;                /* 图标和文字的间距 */
+  padding: 5px 5px;      /* 让矩形变大（内边距） */
+  margin:5px;
+  background-color: #ede31d; /* 背景色，让你看到矩形 */
+  border-radius: 8px;      /* 圆角（可选） */
+  text-decoration: none;   /* 去掉链接的下划线 */
+  color: #000000;             /* 文字颜色 */
+  width: fit-content;      /* 让矩形根据内容自动调整宽度 */
+}
+.CPMS-button:hover {
+  background-color: #d4cb1d;
+}
+.CPMS-version{
     font-size:30px;
     margin:5px;
     font-weight:bold;
