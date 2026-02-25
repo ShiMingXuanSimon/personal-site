@@ -9,6 +9,6 @@ Devenlopment hasn't been finished.🚧.
 
 ## 网站功能
 - 🚧个人主页
-- ❌博客
+- 🚧[博客](https://blog.smx-s.com/)
 - 🚧[CSMS官网](https://csms.smx-s.com/)
 - 🚧[PM官网](https://pm.smx-s.com/)
