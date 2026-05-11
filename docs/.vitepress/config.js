@@ -1,4 +1,5 @@
 export default {
+  lang: 'zh-cn',
   title: 'SMXS 的个人主页',
   description: 'ShiMingXuanSimon 的个人主页',
   head: [
